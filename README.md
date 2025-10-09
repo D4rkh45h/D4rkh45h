@@ -27,6 +27,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
+  <!-- Aquí puedes añadir más iconos de habilidades si los tenías antes, los he omitido por brevedad en este ejemplo -->
 </p>
 <br>
 
@@ -34,16 +35,14 @@
 
 ### Estadísticas de GitHub
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkH4sh&show_icons=true&theme=dark&locale=en&layout=compact" alt="DarkH4sh" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkH4sh&show_icons=true&theme=dark&locale=es&layout=compact" alt="DarkH4sh - Lenguajes más usados" />
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DarkH4sh&show_icons=true&theme=dark&locale=en" alt="DarkH4sh" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkH4sh&show_icons=true&theme=dark&locale=es" alt="DarkH4sh - Estadísticas generales" />
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkH4sh&theme=dark" alt="DarkH4sh" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkH4sh&theme=dark" alt="DarkH4sh - Racha de contribuciones" />
 </p>
 
 ---
