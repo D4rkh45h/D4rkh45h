@@ -27,31 +27,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-
-  <!-- Nmap -->
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Nmap_logo.svg" alt="Nmap" width="40" height="40"/>
-  </a>
-
-  <!-- Wireshark -->
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Wireshark_Logo.svg" alt="Wireshark" width="40" height="40"/>
-  </a>
-
-  <!-- Metasploit -->
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Metasploit_logo.svg" alt="Metasploit" width="40" height="40"/>
-  </a>
-
-  <!-- Burp Suite -->
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Burp_Suite_Logo.png" alt="Burp Suite" width="40" height="40"/>
-  </a>
-
-  <!-- Kali Linux -->
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Kali_Linux_Logo.svg" alt="Kali Linux" width="40" height="40"/>
-  </a>
 </p>
 <br>
 
