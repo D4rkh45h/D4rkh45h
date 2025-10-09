@@ -27,7 +27,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  <!-- Aquí puedes añadir más iconos de habilidades si los tenías antes, los he omitido por brevedad en este ejemplo -->
+  <!-- Puedes añadir más iconos de habilidades aquí -->
 </p>
 <br>
 
@@ -36,13 +36,10 @@
 ### Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkH4sh&show_icons=true&theme=dark&locale=es&layout=compact" alt="DarkH4sh - Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark&locale=es&layout=compact" alt="Lenguajes más usados de TU_USUARIO_GITHUB" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkH4sh&show_icons=true&theme=dark&locale=es" alt="DarkH4sh - Estadísticas generales" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkH4sh&theme=dark" alt="DarkH4sh - Racha de contribuciones" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark&locale=es" alt="Estadísticas de GitHub de TU_USUARIO_GITHUB" />
 </p>
 
 ---
@@ -62,5 +59,5 @@
 
 <br>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=DarkH4sh&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil" /> 
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil" /> 
 </p>
