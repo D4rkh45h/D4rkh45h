@@ -36,10 +36,10 @@
 ### Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark&locale=es&layout=compact" alt="Lenguajes más usados de TU_USUARIO_GITHUB" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D4rkh45h&show_icons=true&theme=dark&locale=es&layout=compact" alt="Lenguajes más usados de D4rkh45h" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark&locale=es" alt="Estadísticas de GitHub de TU_USUARIO_GITHUB" />
+  <img src="https://github-readme-stats.vercel.app/api?username=D4rkh45h&show_icons=true&theme=dark&locale=es" alt="Estadísticas de GitHub de D4rkh45h" />
 </p>
 
 ---
