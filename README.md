@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, soy D4rkh45h</h1>
 
 <p align="left"> 
-  <a href="https://twitter.com/TU_TWITTER" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/TU_TWITTER?logo=twitter&style=for-the-badge" alt="Twitter" />
+  <a href="https://www.linkedin.com/in/pedro-jos%C3%A9-461479353/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> 
 </p>
 
