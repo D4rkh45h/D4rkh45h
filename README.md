@@ -18,7 +18,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Protegiendo el futuro digital 🔒</h2></summary>
+    <summary><h2 style="display: inline-block">Consultoría ofensiva para entornos seguros</h2></summary>
   </ul>
 </div>
 
@@ -33,7 +33,7 @@
 - 🌱 Actualmente estoy aprendiendo y perfeccionando mis habilidades en **Pentesting Avanzado y Hacking Ético**, con miras a la certificación **OSCP**.
 - ☁️ Tengo un gran interés en la seguridad en la nube y estoy explorando las mejores prácticas en este ámbito.
 - 💬 Pregúntame sobre **ciberseguridad ofensiva, análisis de vulnerabilidades, Linux, Python y redes.**
-- 📫 No dudes en contactarme por **D4rkh45h.Contact@gmail.com**
+- 📫 No dudes en contactarme por **drkhsh8@gmail.com**
 <br>
 <img align="right" alt="Ciberseguridad" width="300" src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif">
 <!--Intro end-->
@@ -81,7 +81,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,python,cpp,js,mysql,docker,nmap,burpsuite,metasploit,git,vscode,network,web" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,python,cpp,js,mysql,docker,nmap,burpsuite,metasploit,git,vscode,network,web,bash,wireshark,owasp,powershell,vim,kubernetes,aws" />
   </a>
 </p>
 
