@@ -81,7 +81,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,python,cpp,js,mysql,docker,git,wireshark,owasp,powershell,vim" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,python,cpp,js,mysql,docker,git,powershell,vim,postgres,mongodb,vscode,bash" />
   </a>
 </p>
 
