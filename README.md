@@ -10,9 +10,10 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+       alt="snake" />
 </div>
+
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -97,8 +98,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/pedro-jos%C3%A9-461479353/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/og_pedr0/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://github.com/D4rkh45h" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="github" height="50" width="50" /></a> <!-- Usé el ícono de Discord para GitHub, podrías cambiarlo si tienes uno de GitHub en tu assets -->
-
+<a href="https://github.com/D4rkh45h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="50" width="50" /></a>
 </p>
 
 
