@@ -35,7 +35,7 @@
 - 💬 Pregúntame sobre **ciberseguridad ofensiva, análisis de vulnerabilidades, Linux, Python y redes.**
 - 📫 No dudes en contactarme por **drkhsh8@gmail.com**
 <br>
-<img align="right" alt="Ciberseguridad" width="300" src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img align="right" alt="Ciberseguridad" width="300" src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif"><br><br><br>r><br><br><br><br>
 <!--Intro end-->
 
 
